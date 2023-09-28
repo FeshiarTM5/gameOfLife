@@ -133,7 +133,6 @@ int main() {
 
     // Show the window
     ShowWindow(hwnd, SW_SHOW);
-    std::cout << "heyo";
 
     MSG msg;
     BOOL bRet;
